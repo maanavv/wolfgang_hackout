@@ -5,4 +5,6 @@ The problem is to build a comprehensive early warning and alerting platform that
 
 Deployment Link - https://maanavv-wolfgang-hac-5zcw.bolt.host/
 PPT LINK - https://drive.google.com/file/d/1DgjxFE-B0RHMtDLogt5Uqf1Y3JVo9hSI/view?usp=sharing
+VIDEO FILE LINK - https://drive.google.com/drive/folders/1IPDo64wMoLvmKiFAuFsqJ_kqQn9yyaxQ?usp=sharing
+GITHUB LINK - https://github.com/maanavv/wolfgang_hackout.git
 
